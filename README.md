@@ -1,5 +1,7 @@
 # A Fork Of Rename Bot 
 
+## Check Out [BOT](http://t.me/Keys_RenameBot)
+
 [Main Repo](https://github.com/prgofficial/RenameBot-PermTB)
 
 
